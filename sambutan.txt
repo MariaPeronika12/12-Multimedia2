@@ -1,0 +1,14 @@
+<h1>Sambutan Wali Kelas</h1>
+<p>Selamat datang, peserta didik kelas 12 Multimedia 2!</p>
+<p>Saya sangat senang dapat berbicara kepada kalian semua dalam kesempatan ini. Sebagai wali kelas, saya merasa bangga melihat semangat dan dedikasi kalian dalam mengejar ilmu di bidang multimedia. Kelas ini bukan hanya tempat belajar, tetapi juga komunitas yang saling mendukung dan berkembang bersama.</p>
+			
+<h1>Kesan :</h1>
+<p>Di tengah-tengah pelajaran dan proyek-proyek yang menantang, saya ingin mengingatkan kalian untuk selalu membuka pikiran dan berkolaborasi satu sama lain. Multimedia adalah dunia yang dinamis, dan ide-ide segar dari setiap individu sangat berharga. Jangan ragu untuk bertanya, berbagi, dan saling menginspirasi.</p>
+<p>Jangan lupakan pentingnya disiplin diri dan tanggung jawab pribadi. Kunci kesuksesan terletak pada bagaimana kita mengelola waktu, bekerja sama, dan tetap fokus pada tujuan akhir kita.</p>
+
+<h1>Pesan :</h1>
+<p>Saya berharap tahun ini menjadi petualangan pembelajaran yang menyenangkan dan membanggakan bagi kita semua. Setiap hari adalah kesempatan baru untuk belajar, tumbuh, dan menciptakan sesuatu yang luar biasa. Bersama-sama, mari kita menjadikan kelas Multimedia 2 sebagai lingkungan yang positif, inspiratif, dan penuh prestasi.</p>
+
+<p>Terima kasih atas perhatian dan semangat kalian. Selamat belajar dan berkreasi!</p>
+
+<p>Fenny, S.Pd - Wali Kelas XII MM 2 - 2023</p>
